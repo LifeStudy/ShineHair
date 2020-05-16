@@ -1,0 +1,11 @@
+{
+  "name": "ShineHair",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Box-Innovation-X/ShineHair.git",
+  "author": "ArjDev69 <bruno96araujo@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
